@@ -7,6 +7,7 @@ import { collection, addDoc } from 'firebase/firestore';
 function Contact() {
   return (
     <>
+    
       <NavBar />
       <ContactPage/>
       <Footer/>
